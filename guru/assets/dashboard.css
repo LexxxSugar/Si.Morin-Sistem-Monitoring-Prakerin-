@@ -1,0 +1,33 @@
+/* Body background warna abu-abu muda */
+body {
+    background: #f8f9fa;
+}
+
+/* Card area selamat datang */
+.welcome-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgb(0 0 0 / 0.1);
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+/* Styling dropdown menu agar lebih modern */
+.dropdown-menu {
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgb(0 0 0 / 0.15);
+}
+
+/* Styling tombol menu: bentuk rounded-pill dan padding */
+.btn-primary {
+    border-radius: 50px;
+    padding: 0.6rem 1.8rem;
+    font-weight: 600;
+}
+
+/* Styling judul */
+h2 {
+    font-weight: 700;
+    color: #343a40;
+}
